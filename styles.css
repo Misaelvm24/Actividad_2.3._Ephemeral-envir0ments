@@ -1,0 +1,35 @@
+body {
+    background-image: url('imagen_fondo.jpg');
+    background-size: cover;
+    margin: 0;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    opacity: 0.9;
+}
+
+#header {
+    padding: 20px;
+}
+
+#header img {
+    width: 150px;
+}
+
+#body {
+    padding: 20px;
+}
+
+#footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#footer p {
+    margin: 0;
+}
